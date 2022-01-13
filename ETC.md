@@ -1,16 +1,16 @@
 # ETC
 
 
-* [ERD란]("#etc-1")
-* [Ajax]("#etc-2")
-* [XML]("#etc-3")
-* [미들웨어란?]("#etc-4")
-* [WAS]("#etc-5")
-* [REST]("etc-6")
-* [HTML5]("etc-7")
-* [웹 서비스란]("etc-8")
-* [jquery]("etc-9")
-* [TCP/UDP]("etc-10")
+* [ERD란](#etc-1)
+* [Ajax](#etc-2)
+* [XML](#etc-3)
+* [미들웨어란?]("#etc-4)
+* [WAS](#etc-5)
+* [REST](etc-6)
+* [HTML5](etc-7)
+* [웹 서비스란](etc-8)
+* [jquery](etc-9)
+* [TCP/UDP](etc-10)
 
 
 
