@@ -101,7 +101,7 @@ Outer Join은 Full Outer Join, Left Outer Join, Right Outer Join 세 종류가 �
 인덱스의 원리는 해당 컬럼에 index를 걸어준 다음 ROWID를 보고 테이블에 접근하는 방식, ROWID를 이용해 데이터를 가장 빠르게 검색할 수 있다.<br>
 주로 자주 검색되는 컬럼이나, 조인조건으로 자주 사용되는 컬럼에 index를 걸어준다.
 
-## Oracle과 MySQL
+## Oracle과 MySQL <a id="db-16"/>
 Oracle은 큰 규모의 예산과 복잡한 비즈니스 요구와 기업을 위해 설계되었고, <br>
 MySQL은 데이터베이스 기반 웹 사이트에 사용되는 저가형 데이터베이스이다.<br>
 기업은 자사에 적절한 비용등과 같은 기준을 산정해 데이터베이스를 선정할 것이다.<br>
